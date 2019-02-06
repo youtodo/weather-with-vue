@@ -2,16 +2,15 @@
 client/node_modules/
 client/yarn.lock
 client//dist
-client/
 client/# local env files
 client/.env.local
 client/.env.*.local
-client/
+
 client/# Log files
 client/npm-debug.log*
 client/yarn-debug.log*
 client/yarn-error.log*
-client/
+
 client/# Editor directories and files
 client/.idea
 client/.vscode
